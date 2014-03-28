@@ -1,0 +1,17 @@
+{
+  "name": "mullet docs",
+  "version": "0.0.1",
+  "description": "Mullet app doc generator",
+  "author": "Wes Johnson",
+  "dependencies": {
+      "dox": ""
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sterlingwes/mullet/issues"
+  },
+  "homepage": "https://github.com/sterlingwes/mullet",
+  "mullet": {
+      "run": "last"
+  }
+}
